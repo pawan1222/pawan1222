@@ -3,21 +3,6 @@
 
 **pawan1222/pawan1222** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 
-### 🚀 About Me
-- 🎓 I’m a Computer Science Engineering student at Lovely Professional University.
-- 💻 I have a strong foundation in **C++, JavaScript, Node.js, Express.js, React, and MongoDB**.
-- 🌐 I’m passionate about **web development** and **DSA problem-solving**.
-- 🔭 I’m currently working on **full-stack MERN projects**, including an **expense tracker** and a **blogging website**.
-- 👯 I’m looking to collaborate on **open-source web applications**, especially in **React.js** and **Node.js**.
-- 💬 Ask me about **web dev, DSA patterns, or how to get started with the MERN stack**.
-- 📫 How to reach me: **[https://www.linkedin.com/in/pawan1222/]**
-- 😄 Pronouns: pawan singh
-- ⚡ Fun fact: I enjoy turning complex concepts into simple code that even a kid can understand!
-
----
-
-📌 *Let’s connect and build something amazing together!* 🚀
-
 
 
 ## 🌐 Socials:
